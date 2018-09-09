@@ -1,0 +1,13 @@
+#search-result {
+  margin-top: 10px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px,1fr));
+}
+
+img {
+  max-width: 100%;
+}
+
+div.image {
+  padding: 5px;
+}
